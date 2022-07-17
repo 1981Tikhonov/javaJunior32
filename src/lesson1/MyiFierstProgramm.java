@@ -7,7 +7,7 @@ public class MyiFierstProgramm {
         double b = 4;
         double c = 7;
 
-        double perimetr = a +c;
+        double perimetr = a + b + c;
         System.out.println("Perimetr treygolnika: " + perimetr);
 
 
